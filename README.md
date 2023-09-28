@@ -23,5 +23,5 @@ This playlist covers all about ORM in Node JS world
 
 ![](/snap/compare.png)
 
-##POSTMAN DOC
-https://documenter.getpostman.com/view/3210014/2s9YJXb5h1
+## POSTMAN DOC
+https://documenter.getpostman.com/view/3210014/2s9YJXb5h1 
