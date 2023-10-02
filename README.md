@@ -2,7 +2,7 @@
 
 ### Knex, TypeORM, Sequelize, and Prisma
 
-Node JS  with different ORM like
+Node JS  with different ORM like.
 Typeorm, Knex, Prisma and Sequelize with Node JS API Development
 Node JS with without any ORM (MYSQL raw queries)
 
