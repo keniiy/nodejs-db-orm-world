@@ -3,10 +3,10 @@
 ### Knex, TypeORM, Sequelize, and Prisma
 
 Node JS  with different ORM like.
-Typeorm, Knex, Prisma and Sequelize with Node JS API Development
+Typeorm, Knex, Prisma and Sequelize with Node JS API Development.
 Node JS with without any ORM (MYSQL raw queries)
 
-This playlist covers all about ORM in Node JS world
+This playlist covers all about ORM in Node JS world.
 
 - Node JS express with Knex
 - Nest JS with Knex query Builder
