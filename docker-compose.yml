@@ -8,3 +8,10 @@ services:
   postgres:
     image: postgres
     restart: unless-stopped
+  mysql:
+    image: mysql
+volumes:
+  mysql_data: {}
+  api_data: {}
+
+      

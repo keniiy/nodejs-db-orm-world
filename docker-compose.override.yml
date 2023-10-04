@@ -1,14 +1,22 @@
 version: "3"
-services: 
+services:
   postgres:
     environment:
-      - POSTGRES_USER=test
-      - POSTGRES_PASSWORD=test
-      - POSTGRES_MULTIPLE_DATABASES="test"
+      POSTGRES_USER: test
+      POSTGRES_PASSWORD: test
+      POSTGRES_MULTIPLE_DATABASES: "test"
     volumes:
       - ./docker-utils:/docker-entrypoint-initdb.d
       - api_data:/data/postgres
     ports:
       - 5434:5432
-volumes:
-  api_data: {}
+  mysql:
+    environment:
+      MYSQL_DATABASE: 'db'
+      MYSQL_USER: 'user'
+      MYSQL_PASSWORD: 'password'
+      MYSQL_ROOT_PASSWORD: 'password'
+    ports:
+      - 3307:3306
+    volumes:
+      - mysql_data:/var/lib/mysql
