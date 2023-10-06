@@ -4,7 +4,7 @@
 
 Node JS  with different ORM like.
 Typeorm, Knex, Prisma and Sequelize with Node JS API Development.
-Node JS with without any ORM (MYSQL raw queries)
+Node JS with without any ORM (MYSQL raw queries).
 
 This playlist covers all about ORM in Node JS world.
 
