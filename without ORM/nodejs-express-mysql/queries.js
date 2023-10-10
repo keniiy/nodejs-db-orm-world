@@ -24,7 +24,6 @@ const getUsers = (req, res) => {
         if (err) {
             return res.status(500).send(err);
         }
-        console.log(result, 'results');
         res.status(200).json(result);
     })
 }
