@@ -20,7 +20,6 @@ This playlist covers all about ORM in Node JS world.
 ![](/snap/diag.png)
 
 ### Quick Compare
-
 ![](/snap/compare.png)
 
 ## POSTMAN DOC
