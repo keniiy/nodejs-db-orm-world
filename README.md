@@ -7,7 +7,7 @@ Node JS with without any ORM (MYSQL raw queries).
 
 This playlist covers all about ORM in Node JS world.
 
-- Node JS express with Knex
+- Node JS express with Knex.
 - Nest JS with Knex query Builder
 - Node JS express with sequelize
 - Nest JS with sequelize ORM
