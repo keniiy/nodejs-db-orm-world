@@ -9,7 +9,7 @@ This playlist covers all about ORM in Node JS world.
 
 - Node JS express with Knex.
 - Nest JS with Knex query Builder.
-- Node JS express with sequelize
+- Node JS express with sequelize.
 - Nest JS with sequelize ORM
 - Node JS express with TypeORM
 - Nest JS with TypeORM orm library  
